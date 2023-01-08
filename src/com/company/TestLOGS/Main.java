@@ -9,5 +9,7 @@ public class Main {
         logger.trace("TraceLOGS<3");
         logger.debug("Change File!");
         logger.debug("Change File!");
+
+        logger.error("FINALCOMMIT");
     }
 }
